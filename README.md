@@ -1,9 +1,5 @@
 # Cognifyz Internship
-Here’s the updated task-wise summary with Task 5 moved to Level 2 as Task 1:
 
----
-
-### Task-Wise Summary:
 
 #### **Level 1 Tasks**
 
